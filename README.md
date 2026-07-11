@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kajal+Gupta+%F0%9F%91%8B;Data+Analyst+%7C+ML+Enthusiast;SQL+%C2%B7+Python+%C2%B7+Power+BI;Turning+raw+data+into+decisions." alt="Typing SVG" />
 
-### 📊 Data Analyst turning raw data into decisions
+### Data Analyst turning raw data into decisions
 
 I clean messy datasets, build predictive models, and ship dashboards people actually open on a Monday morning.
 
@@ -14,14 +14,14 @@ I clean messy datasets, build predictive models, and ship dashboards people actu
 
 ---
 
-### 🧠 About me
+###  About me
 
-- 🎓 B.Sc. Computer Science (Honours), **University of Delhi** — Class of 2026
-- 🔍 I like data with nulls, duplicates, and outliers — that's usually where the real story starts
-- 📈 Recently completed a **Data Analytics Virtual Internship — Deloitte Australia** (via Forage)
-- 🌱 Currently sharpening: data warehousing, dbt, and cloud data pipelines (AWS / Azure)
-- 💬 Ask me about: EDA, feature engineering, Power BI dashboards, or SQL query tuning
-- 📫 Reach me: **projects.kajalgupta@gmail.com**
+-  B.Sc. Computer Science (Honours), **University of Delhi** — Class of 2026
+-  I like data with nulls, duplicates, and outliers — that's usually where the real story starts
+-  Recently completed a **Data Analytics Virtual Internship — Deloitte Australia** (via Forage)
+-  Currently sharpening: data warehousing, dbt, and cloud data pipelines (AWS / Azure)
+-  Ask me about: EDA, feature engineering, Power BI dashboards, or SQL query tuning
+-  Reach me: **projects.kajalgupta@gmail.com**
 
 ---
 
@@ -53,18 +53,18 @@ I clean messy datasets, build predictive models, and ship dashboards people actu
 
 ---
 
-### 📌 Featured projects
+###  Featured projects
 
 | Project | Description | Stack |
 |---|---|---|
-| 🕵️ **[Fraud Detection — Predictive Analytics](https://github.com/KajalGupta-tech)** | End-to-end classification pipeline (Logistic Regression, Random Forest) with EDA and F1-score evaluation | `Python` `Pandas` `Scikit-learn` |
-| 📊 **[Sales & Customer Insights Dashboard](https://github.com/KajalGupta-tech)** | Power BI dashboard with DAX measures, forecasting, and automated PDF reporting | `Power BI` `DAX` `Power Query` |
-| 🍔 **[Swiggy Analytics Dashboard](https://github.com/KajalGupta-tech)** | Delivery & demand pattern analysis, +25% analysis efficiency via interactive slicers | `Power BI` `Forecasting` |
-| 🛒 **[Amazon Product Web Scraper](https://github.com/KajalGupta-tech)** | Scrapes prices, ratings & reviews for competitive pricing analysis | `Python` `BeautifulSoup` |
+|  **[Fraud Detection — Predictive Analytics](https://github.com/KajalGupta-tech)** | End-to-end classification pipeline (Logistic Regression, Random Forest) with EDA and F1-score evaluation | `Python` `Pandas` `Scikit-learn` |
+|  **[Sales & Customer Insights Dashboard](https://github.com/KajalGupta-tech)** | Power BI dashboard with DAX measures, forecasting, and automated PDF reporting | `Power BI` `DAX` `Power Query` |
+|  **[Swiggy Analytics Dashboard](https://github.com/KajalGupta-tech)** | Delivery & demand pattern analysis, +25% analysis efficiency via interactive slicers | `Power BI` `Forecasting` |
+|  **[Amazon Product Web Scraper](https://github.com/KajalGupta-tech)** | Scrapes prices, ratings & reviews for competitive pricing analysis | `Python` `BeautifulSoup` |
 
 ---
 
-### 📈 GitHub stats
+###  GitHub stats
 
 <div align="center">
 
