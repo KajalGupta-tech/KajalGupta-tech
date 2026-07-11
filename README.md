@@ -1,57 +1,87 @@
-## Hi there, I'm Kajal Gupta 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2c3e50&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Machine+Learning;Turning+Data+into+Actionable+Insights;Python,+SQL,+%26+Power+BI;Building+End-to-End+Solutions" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kajal+Gupta+%F0%9F%91%8B;Data+Analyst+%7C+ML+Enthusiast;SQL+%C2%B7+Python+%C2%B7+Power+BI;Turning+raw+data+into+decisions." alt="Typing SVG" />
+
+### 📊 Data Analyst turning raw data into decisions
+
+I clean messy datasets, build predictive models, and ship dashboards people actually open on a Monday morning.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kajalgupta19)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:projects.kajalgupta@gmail.com)
+
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/kajalgupta19"><img src="https://img.shields.io/badge/LinkedIn-Connect-FAA?style=for-the-badge&logo=linkedin&logoColor=black"></a>
-  <a href="https://github.com/KajalGupta-tech"><img src="https://img.shields.io/badge/GitHub-My_Profile-DFA?style=for-the-badge&logo=github&logoColor=black"></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=projects.kajalgupta@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-FAA?style=for-the-badge&logo=gmail&logoColor=black"></a>
-</p>
+---
 
-##  About Me 
-I'm a Data Analyst and recent B.Sc. Computer Science (Honours) graduate passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+### 🧠 About me
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating end-to-end predictive models that help businesses plan for the future. 
+- 🎓 B.Sc. Computer Science (Honours), **University of Delhi** — Class of 2026
+- 🔍 I like data with nulls, duplicates, and outliers — that's usually where the real story starts
+- 📈 Recently completed a **Data Analytics Virtual Internship — Deloitte Australia** (via Forage)
+- 🌱 Currently sharpening: data warehousing, dbt, and cloud data pipelines (AWS / Azure)
+- 💬 Ask me about: EDA, feature engineering, Power BI dashboards, or SQL query tuning
+- 📫 Reach me: **projects.kajalgupta@gmail.com**
 
-When I'm not working with data, I enjoy brewing a great cup of coffee, practicing calligraphy, drawing, and diving into a good book (currently reading *State of Emergency*). I love the "aha!" moment when data reveals something new and useful.
+---
 
-### [Check Out My Full Portfolio Website](https://KajalGupta-tech.github.io/)
-      
-## What I'm Currently Working On 
+### 🛠️ Tech stack
 
-- **Recommendation Engine:** Building an end-to-end recommendation system using FastAPI, SQL, and machine learning models.  
-- **Computer Vision Research:** Developing a missing person detection system utilizing Vision Transformers and GANs.
-- **Predictive Analytics:** Refining classification models for fraud detection in large transactional datasets.
+**Core**
 
-## Currently Learning 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-- Natural Language Processing (NLP), with a focus on text normalization, tokenization, and language modeling.
-- Advanced backend development and deployment strategies for ML applications.
+**Data & ML**
 
-## Technical Skillset
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-#### Data Analysis & Visualization
-<p>
-  <img src="https://img.shields.io/badge/SQL-Advanced-FAA?style=flat&logo=mysql&logoColor=black" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-DFA?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-FAA?style=flat&logo=microsoft-excel&logoColor=black" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-DFA?style=flat&logo=tableau&logoColor=black" alt="Tableau Skill Badge">
-</p>
+**Engineering & cloud**
 
-#### Programming & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Python-Experienced-DFA?style=flat&logo=python&logoColor=black" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/Scikit_Learn-Intermediate-FAA?style=flat&logo=scikit-learn&logoColor=black" alt="Scikit-Learn Badge">
-  <img src="https://img.shields.io/badge/FastAPI-Intermediate-DFA?style=flat&logo=fastapi&logoColor=black" alt="FastAPI Badge">
-  <img src="https://img.shields.io/badge/C++-Basics-FAA?style=flat&logo=c%2B%2B&logoColor=black" alt="C++ Badge">
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Experienced-FAA?style=flat&logoColor=black" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/Web%20Scraping-Experienced-DFA?style=flat&logoColor=black" alt="Web Scraping Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-FAA?style=flat&logoColor=black" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Time_Series_Forecasting-Intermediate-DFA?style=flat&logoColor=black" alt="Forecasting Badge">
-</p>
+---
+
+### 📌 Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🕵️ **[Fraud Detection — Predictive Analytics](https://github.com/KajalGupta-tech)** | End-to-end classification pipeline (Logistic Regression, Random Forest) with EDA and F1-score evaluation | `Python` `Pandas` `Scikit-learn` |
+| 📊 **[Sales & Customer Insights Dashboard](https://github.com/KajalGupta-tech)** | Power BI dashboard with DAX measures, forecasting, and automated PDF reporting | `Power BI` `DAX` `Power Query` |
+| 🍔 **[Swiggy Analytics Dashboard](https://github.com/KajalGupta-tech)** | Delivery & demand pattern analysis, +25% analysis efficiency via interactive slicers | `Power BI` `Forecasting` |
+| 🛒 **[Amazon Product Web Scraper](https://github.com/KajalGupta-tech)** | Scrapes prices, ratings & reviews for competitive pricing analysis | `Python` `BeautifulSoup` |
+
+---
+
+### 📈 GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KajalGupta-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kajal's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KajalGupta-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KajalGupta-tech&theme=tokyonight&hide_border=true" alt="Streak stats" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to entry-level Data Analytics, Machine Learning, and IT roles.**
+
+[![LinkedIn](https://img.shields.io/badge/-Kajal_Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kajalgupta19)
+[![Gmail](https://img.shields.io/badge/-projects.kajalgupta%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:projects.kajalgupta@gmail.com)
+
+</div>
